@@ -1,0 +1,22 @@
+{
+  "name": "cicd-lab",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/abanjong/tni-cc-cicd#readme",
+  "bugs": {
+    "url": "https://github.com/abanjong/tni-cc-cicd/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abanjong/tni-cc-cicd.git"
+  },
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
